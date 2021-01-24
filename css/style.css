@@ -84,7 +84,7 @@ p {
     color: #002c5f;
     text-transform: uppercase;
     font-weight: 700;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
     position: relative;
     display: inline-block;
 }
@@ -106,6 +106,7 @@ section {
 
 .project {
     color: #0e315a;
+	margin-top: 25px;
 }
 
 .project p {
@@ -170,7 +171,7 @@ footer .copyrights {
 }
 
 .project img {
-    max-height: 200px;
+    max-height: 214px;
     object-fit: cover;
     object-position: top;
 }
