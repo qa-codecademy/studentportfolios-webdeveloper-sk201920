@@ -171,9 +171,13 @@ footer .copyrights {
 }
 
 .project img {
-    max-height: 214px;
+    max-height: 245px;
     object-fit: cover;
     object-position: top;
+}
+
+.project-img-short {
+	max-height: 232px !important;
 }
 
 .author-wrap img {
